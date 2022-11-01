@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376355436830",
+    "project_id": "ujitsa-d48bb",
+    "storage_bucket": "ujitsa-d48bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376355436830:android:eb81ce6ac2f1a9548bf10f",
+        "android_client_info": {
+          "package_name": "com.example.ujitsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376355436830-u6pil5gasmpom9ve6c88kph4qjojj5bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoYybTReHIn_if2Mj776Tr6CA_cITqVRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376355436830-u6pil5gasmpom9ve6c88kph4qjojj5bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
